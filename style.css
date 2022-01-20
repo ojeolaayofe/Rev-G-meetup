@@ -1,0 +1,10 @@
+h3{
+	text-align: center;
+	color: #ccc;
+}
+.col-sm-4:hover{
+	background-color: grey;
+	
+	border-style: 3px solid red;
+
+}
